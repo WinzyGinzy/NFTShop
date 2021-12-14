@@ -1,4 +1,4 @@
-# This is a Drupal eCommerce website that lets you setup a shop which can sell products and their licenses to a specific user. 
+# This is a Drupal eCommerce website that lets you setup a shop which can sell various products and their licenses to a specific user. 
 
 The user can buy a licensed file by clicking the "Add to Cart" button which will then give them a notification saying that the product was successfully added to their cart.
  
