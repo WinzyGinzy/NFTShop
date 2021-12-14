@@ -12,3 +12,4 @@ After they register themselves and input the correct credit card data they are t
 of your "transaction". 
 
 - You can also enter your account through the navigation menu and see various tabs there detailing all of your orders, basic account information and the products you own.
+- Has a promotion feature which can be seen during payment
